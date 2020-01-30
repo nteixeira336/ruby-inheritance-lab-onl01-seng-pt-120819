@@ -6,7 +6,7 @@ def initialize
 end   
 
 def learn (string)
-  string= "Ruby framework Rails gem bundle update"
+  
   @knowlege << string 
 end
 
