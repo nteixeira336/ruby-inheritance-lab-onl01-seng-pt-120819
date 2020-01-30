@@ -7,7 +7,7 @@ end
 
 def learn (string)
   string= 
-  @knowlege << "Ruby framework Rails gem bundle update"
+  @knowlege << 
 end
 
 end 
